@@ -5,8 +5,9 @@
 <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/jquery-ui.css" />
 <script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery.js"></script>
 <script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery-ui.js"></script>
+<script type="text/javascript">
 <%@include file="/WEB-INF/jsp/permisos/listar_permisos.js" %>
-
+</script>
 <h1>Permisos</h1>
 
 <table>
