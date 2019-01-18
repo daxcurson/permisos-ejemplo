@@ -11,7 +11,7 @@ Esto permite que los usuarios del sistema puedan crear grupos y asignar permisos
 
 Componentes:
 - Spring 3.1
-- Spring Security 3.1
+- Spring Security 4.2
 - Hibernate 4
 - Javascript
 
